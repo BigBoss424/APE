@@ -1,0 +1,20 @@
+Connection succeeded to filledFile.txt
+
+File Contents are:
+
+now is the time
+for all good men
+to come to the aid
+of their country
+
+
+Connection failed to doesNotExistFile.txt
+
+Connection succeeded to emptyFile.txt
+
+File Contents are:
+
+The file is empty
+
+
+Finished

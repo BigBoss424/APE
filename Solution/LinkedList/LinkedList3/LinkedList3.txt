@@ -1,0 +1,32 @@
+Initial list
+Fritz
+Amy
+Babsy
+Ajax
+Dustmop
+Ebony
+Giselle
+
+Testing remove middle
+Success in position 3 (Ajax)
+Success in position 2 (Babsy)
+
+Remove from the front.
+Success in position 0 (Fritz)
+
+Remove from the back.
+Success in position 3 (Giselle)
+
+Remaining list of size 3:
+Amy
+Dustmop
+Ebony
+
+Looking for Love in one of the wrong places
+
+Final state of size 3:
+Amy
+Dustmop
+Ebony
+
+Finished with Driver3

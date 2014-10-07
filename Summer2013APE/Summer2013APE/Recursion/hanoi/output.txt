@@ -1,0 +1,16 @@
+Testing with one disk, moving it from A to C
+Move a disk from A to C
+
+Testing with two disks, moving them from A to C
+Move a disk from A to B
+Move a disk from A to C
+Move a disk from B to C
+
+Testing with three disks, moving them from A to C
+Move a disk from A to C
+Move a disk from A to B
+Move a disk from C to B
+Move a disk from A to C
+Move a disk from B to A
+Move a disk from B to C
+Move a disk from A to C

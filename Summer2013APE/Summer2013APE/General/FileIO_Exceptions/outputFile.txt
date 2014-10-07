@@ -1,0 +1,9 @@
+Data type is Double, value is: 1.23
+Data type is Integer, value is: 4
+Data type is String, value is: 
+Data type is String, value is: hello!
+Data type is Integer, value is: 5
+Data type is Double, value is: 6.78
+Data type is Integer, value is: 9
+Data type is String, value is: 
+Data type is String, value is: good bye!

@@ -1,0 +1,24 @@
+Recursion test:  triangular numbers.
+Triangular(0) = 0
+Triangular(1) = 1
+Triangular(2) = 3
+Triangular(3) = 6
+Triangular(4) = 10
+Connection succeeded to IOin1.txt
+Ajax
+Amy
+Babsy
+Badger
+Caligula
+Cerberus
+Dancer
+Dustmop
+Ebony
+Ebony
+Felicia
+Fritz
+Giselle
+Giselle
+Connection failed to IOin2.txt
+Attempting to open WriteProtect.txt for output
+java.io.FileNotFoundException: WriteProtect.txt (Access is denied)

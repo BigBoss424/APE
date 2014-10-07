@@ -1,0 +1,33 @@
+***Testing some boundary (null) cases for methods
+
+fin null on call to closeInputFile
+An exception occurred when closing output file
+no input file object present on call to read
+fout null on call to writeLine
+
+***Now testing basic functionality
+
+---Connection succeeded to filledFile.txt
+
+File Contents are:
+
+Data type is Double, value is: 1.23
+Data type is Integer, value is: 4
+Data type is String, value is: 
+Data type is String, value is: hello!
+Data type is Integer, value is: 5
+Data type is Double, value is: 6.78
+Data type is Integer, value is: 9
+Data type is String, value is: 
+Data type is String, value is: good bye!
+
+!!!Connection failed to doesNotExistFile.txt
+
+
+---Connection succeeded to emptyFile.txt
+
+File Contents are:
+
+
+
+Finished testing file I/O

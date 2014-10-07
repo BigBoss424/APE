@@ -1,0 +1,25 @@
+Starting with an empty list:
+List size is 0
+
+List now looks like this:
+List size is 3
+1
+2
+3
+
+List now looks like this:
+List size is 5
+1
+2
+3
+hello
+goodbye
+
+List now looks like this:
+List size is 5
+1
+2
+3
+hello
+goodbye
+

@@ -1,0 +1,31 @@
+Original list:
+9 lb. dog:  Fritz
+7 lb. cat:  Amy
+5 lb. cat:  Babsy
+7 lb. dog:  Ajax
+4 lb. dog:  Dustmop
+9 lb. dog:  Ebony
+7 lb. cat:  Giselle
+7 lb. cat:  Dancer
+3 lb. cat:  Ebony
+7 lb. cat:  Felicia
+2 lb. dog:  Badger
+7 lb. cat:  Caligula
+2 lb. dog:  Cerberus
+9 lb. dog:  Giselle
+
+Sorted list:
+7 lb. dog:  Ajax
+7 lb. cat:  Amy
+5 lb. cat:  Babsy
+2 lb. dog:  Badger
+7 lb. cat:  Caligula
+2 lb. dog:  Cerberus
+7 lb. cat:  Dancer
+4 lb. dog:  Dustmop
+3 lb. cat:  Ebony
+9 lb. dog:  Ebony
+7 lb. cat:  Felicia
+9 lb. dog:  Fritz
+7 lb. cat:  Giselle
+9 lb. dog:  Giselle

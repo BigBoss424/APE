@@ -1,0 +1,51 @@
+Starting with an empty list:
+List size is 0
+
+Called set on an empty list, oldValue is: null
+List looks like this:
+List size is 0
+
+Just added three items to list, list looks like:
+List size is 3
+3.14159
+stupendous
+42
+
+Called set that's out of range on list, oldValue is: null
+List looks like this:
+List size is 3
+3.14159
+stupendous
+42
+
+Called set with index of 0, oldValue is: 3.14159
+List looks like this:
+List size is 3
+NEW DATA VALUE
+stupendous
+42
+
+Called set with index of 2, oldValue is: 42
+List looks like this:
+List size is 3
+NEW DATA VALUE
+stupendous
+SECOND NEW DATA VALUE
+
+Called set with index of 1, oldValue is: stupendous
+List looks like this:
+List size is 3
+NEW DATA VALUE
+THIRD NEW DATA VALUE
+SECOND NEW DATA VALUE
+
+Called set with index of 4, oldValue is: THIRD NEW DATA VALUE
+List looks like this:
+List size is 6
+I have a very bad feeling about this.
+Nilbog is Goblin spelled backwards!
+Amazon.ca! What's the website for that?
+NEW DATA VALUE
+***FINAL*** NEW DATA VALUE
+SECOND NEW DATA VALUE
+

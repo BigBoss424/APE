@@ -1,0 +1,24 @@
+After adding 26 items the list size is 26
+
+Attempting to remove New potatoes
+Removed New potatoes
+The list size is 25
+
+Attempting to remove Apple
+Removed Apple
+The list size is 24
+
+Attempting to remove Zwieback
+Removed Zwieback
+The list size is 23
+
+Attempting to remove index not in the list
+Not removed - Index: 23, Size: 23
+
+Attempting to remove index not in the list
+Not removed - Index: -1, Size: 23
+
+Attempting to remove on empty list
+Not removed - Index: 0, Size: 0
+
+Finished

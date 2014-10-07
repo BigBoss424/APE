@@ -1,0 +1,69 @@
+    
+     ----jGRASP exec: java Tester
+    The Ackermann number for A(0,0) is 1
+    
+    The Ackermann number for A(0,1) is 2
+    
+    The Ackermann number for A(0,2) is 3
+    
+    The Ackermann number for A(0,3) is 4
+    
+    The Ackermann number for A(0,4) is 5
+    
+    The Ackermann number for A(0,5) is 6
+    
+    The Ackermann number for A(0,6) is 7
+    
+    The Ackermann number for A(0,7) is 8
+    
+    The Ackermann number for A(1,0) is 2
+    
+    The Ackermann number for A(1,1) is 3
+    
+    The Ackermann number for A(1,2) is 4
+    
+    The Ackermann number for A(1,3) is 5
+    
+    The Ackermann number for A(1,4) is 6
+    
+    The Ackermann number for A(1,5) is 7
+    
+    The Ackermann number for A(1,6) is 8
+    
+    The Ackermann number for A(1,7) is 9
+    
+    The Ackermann number for A(2,0) is 3
+    
+    The Ackermann number for A(2,1) is 5
+    
+    The Ackermann number for A(2,2) is 7
+    
+    The Ackermann number for A(2,3) is 9
+    
+    The Ackermann number for A(2,4) is 11
+    
+    The Ackermann number for A(2,5) is 13
+    
+    The Ackermann number for A(2,6) is 15
+    
+    The Ackermann number for A(2,7) is 17
+    
+    The Ackermann number for A(3,0) is 5
+    
+    The Ackermann number for A(3,1) is 13
+    
+    The Ackermann number for A(3,2) is 29
+    
+    The Ackermann number for A(3,3) is 61
+    
+    The Ackermann number for A(3,4) is 125
+    
+    The Ackermann number for A(3,5) is 253
+    
+    The Ackermann number for A(3,6) is 509
+    
+    The Ackermann number for A(3,7) is 1021
+    
+    
+     ----jGRASP: operation complete.
+    

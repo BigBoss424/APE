@@ -1,0 +1,20 @@
+The gcd of 2 and 30 is 2
+
+The gcd of 3 and 27 is 3
+
+The gcd of 4 and 24 is 4
+
+The gcd of 5 and 21 is 1
+
+The gcd of 6 and 18 is 6
+
+The gcd of 7 and 15 is 1
+
+The gcd of 8 and 12 is 4
+
+The gcd of 9 and 9 is 9
+
+The gcd of 10 and 6 is 2
+
+The gcd of 11 and 3 is 1
+

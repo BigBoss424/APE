@@ -1,0 +1,58 @@
+After adding 26 items the list size is 26
+Printing the UN-Sorted List
+0. Grape
+1. Banana
+2. Mango
+3. Eclair
+4. Zwieback
+5. Ice cream
+6. Lettuce
+7. Carrot
+8. Apple
+9. Drum stick
+10. Umble pie
+11. New potatoes
+12. Wheat bread
+13. Romaine lettuce
+14. Flan
+15. Tomatoes
+16. Kiwi fruit
+17. Papaya
+18. Jicama
+19. Quiche
+20. Olives
+21. V-8
+22. Steak
+23. Xmas cookies
+24. Hash browns
+25. Yellowtail
+
+Printing the Sorted List
+0. Apple
+1. Banana
+2. Carrot
+3. Drum stick
+4. Eclair
+5. Flan
+6. Grape
+7. Hash browns
+8. Ice cream
+9. Jicama
+10. Kiwi fruit
+11. Lettuce
+12. Mango
+13. New potatoes
+14. Olives
+15. Papaya
+16. Quiche
+17. Romaine lettuce
+18. Steak
+19. Tomatoes
+20. Umble pie
+21. V-8
+22. Wheat bread
+23. Xmas cookies
+24. Yellowtail
+25. Zwieback
+
+Finished

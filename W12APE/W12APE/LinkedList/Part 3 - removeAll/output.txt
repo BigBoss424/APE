@@ -1,0 +1,38 @@
+    After adding 11 items the list size is 11
+    List is:
+    [60, 90, 20, 40, 10, 30, 80, 100, 70, 0, 50]
+    
+    ATTEMPT 1
+    After removeAll the list size is 7
+    List is:
+    [90, 20, 40, 80, 100, 70, 0]
+    
+    ATTEMPT 2
+    ---List NOT modified--
+    After removeAll the list size is 0
+    List is:
+    List is Empty
+    
+    
+    After adding 11 items the list size is 11
+    List is:
+    [60, 90, 20, 40, 10, 30, 80, 100, 70, 0, 50]
+    
+    ATTEMPT 3
+    ---List NOT modified--
+    After removeAll the list size is 11
+    List is:
+    [60, 90, 20, 40, 10, 30, 80, 100, 70, 0, 50]
+    
+    ATTEMPT 4
+    ---List NOT modified--
+    ---Illegal Argument Exception--
+    Collection is null
+    After removeAll the list size is 11
+    List is:
+    [60, 90, 20, 40, 10, 30, 80, 100, 70, 0, 50]
+    
+    Finished
+    
+
+    

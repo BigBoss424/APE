@@ -1,0 +1,23 @@
+Contents of the list:
+Fritz
+Amy
+Babsy
+Ajax
+Dustmop
+Ebony
+Giselle
+Dancer
+Ebony
+Felicia
+Badger
+Caligula
+Cerberus
+Giselle
+Call with negative index:
+-1 is invalid in a size 14 list
+Returned null reference.
+Call with too large an index.
+14 is invalid in a size 14 list
+Returned null reference.
+
+Finished with Driver1

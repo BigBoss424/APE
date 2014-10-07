@@ -1,0 +1,57 @@
+Before sorting 4 names:
+zippy
+bubba
+sparky
+arnold
+
+After sorting 4 names:
+arnold
+bubba
+sparky
+zippy
+
+Before sorting 3 names:
+zippy
+bubba
+sparky
+
+After sorting 3 names:
+bubba
+sparky
+zippy
+
+Before sorting 2 names:
+zippy
+bubba
+
+After sorting 2 names:
+bubba
+zippy
+
+Before sorting 1 name:
+bubba
+
+After sorting 1 name:
+bubba
+
+Before sorting 0 names:
+
+After sorting 0 names:
+
+Finally, let's sort something else - integers
+23
+0
+45
+0
+91
+99
+2
+
+After sorting the integers:
+0
+0
+2
+23
+45
+91
+99

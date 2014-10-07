@@ -1,0 +1,10 @@
+Sir Lancelot the Brave has a bravery index of 10 and has slain 0 enemies.
+Sir Lancelot the Brave slays Peters the Persnickety.
+Sir Lancelot the Brave slays Steiner the Sinister.
+Sir Lancelot the Brave slays Kamp the Cantankerous.
+Sir Lancelot the Brave has a bravery index of 10 and has slain 3 enemies.
+
+Sir Robin, the Not So Brave has a bravery index of -5 and has escaped the enemy 0 times.
+Sir Robin, the Not So Brave successfully runs away from Armstrong the Avenging.
+Sir Robin, the Not So Brave successfully runs away from Capaul the Courageous.
+Sir Robin, the Not So Brave has a bravery index of -5 and has escaped the enemy 2 times.

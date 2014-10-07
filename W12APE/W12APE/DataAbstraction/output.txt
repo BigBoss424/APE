@@ -1,0 +1,116 @@
+    Original List
+    ID: 123456
+    Credits: 5
+    Fees: 617.25
+    Under Graduate
+    
+    
+    ID: 234567
+    Credits: 10
+    Fees: 3259.5
+    Graduate
+    
+    
+    ID: 345678
+    Credits: 12
+    Fees: 1481.4
+    Under Graduate
+    
+    
+    ID: 456789
+    Credits: 6
+    Fees: 1955.7
+    Graduate
+    
+    
+    ID: 567890
+    Credits: 15
+    Fees: 1851.75
+    Under Graduate
+    
+    
+    ID: 678901
+    Credits: 9
+    Fees: 2933.55
+    Graduate
+    
+    
+    
+    
+    Sorted List by Credits
+    ID: 123456
+    Credits: 5
+    Fees: 617.25
+    Under Graduate
+    
+    
+    ID: 456789
+    Credits: 6
+    Fees: 1955.7
+    Graduate
+    
+    
+    ID: 678901
+    Credits: 9
+    Fees: 2933.55
+    Graduate
+    
+    
+    ID: 234567
+    Credits: 10
+    Fees: 3259.5
+    Graduate
+    
+    
+    ID: 345678
+    Credits: 12
+    Fees: 1481.4
+    Under Graduate
+    
+    
+    ID: 567890
+    Credits: 15
+    Fees: 1851.75
+    Under Graduate
+    
+    
+    Sorted List by ID
+    ID: 123456
+    Credits: 5
+    Fees: 617.25
+    Under Graduate
+    
+    
+    ID: 234567
+    Credits: 10
+    Fees: 3259.5
+    Graduate
+    
+    
+    ID: 345678
+    Credits: 12
+    Fees: 1481.4
+    Under Graduate
+    
+    
+    ID: 456789
+    Credits: 6
+    Fees: 1955.7
+    Graduate
+    
+    
+    ID: 567890
+    Credits: 15
+    Fees: 1851.75
+    Under Graduate
+    
+    
+    ID: 678901
+    Credits: 9
+    Fees: 2933.55
+    Graduate
+    
+    
+    Finished
+
+    

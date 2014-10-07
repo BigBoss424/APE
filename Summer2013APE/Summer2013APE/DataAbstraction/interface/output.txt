@@ -1,0 +1,29 @@
+List of fish is as follows:
+
+Fish name: trout, weight in ounces: 10
+Fish name: trout, weight in ounces: 5
+Fish name: trout, weight in ounces: 15
+Fish name: salmon, weight in ounces: 10
+Fish name: salmon, weight in ounces: 30
+Fish name: barracuda, weight in ounces: 50
+Fish name: sunfish, weight in ounces: 5
+
+List of fish after sorting by *NAME* only using class implementing Comparator:
+
+Fish name: barracuda, weight in ounces: 50
+Fish name: salmon, weight in ounces: 10
+Fish name: salmon, weight in ounces: 30
+Fish name: sunfish, weight in ounces: 5
+Fish name: trout, weight in ounces: 10
+Fish name: trout, weight in ounces: 5
+Fish name: trout, weight in ounces: 15
+
+List of fish after sorting by *WEIGHT* only using class implementing Comparator:
+
+Fish name: trout, weight in ounces: 5
+Fish name: sunfish, weight in ounces: 5
+Fish name: trout, weight in ounces: 10
+Fish name: salmon, weight in ounces: 10
+Fish name: trout, weight in ounces: 15
+Fish name: salmon, weight in ounces: 30
+Fish name: barracuda, weight in ounces: 50

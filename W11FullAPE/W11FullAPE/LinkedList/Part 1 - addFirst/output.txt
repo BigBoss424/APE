@@ -1,0 +1,35 @@
+After adding 26 items 
+
+Call on a list with 26 items
+0. Zwieback
+1. Yellowtail
+2. Xmas cookies
+3. Wheat bread
+4. V-8
+5. Umble pie
+6. Tomatoes
+7. Steak
+8. Romaine lettuce
+9. Quiche
+10. Papaya
+11. Olives
+12. New potatoes
+13. Mango
+14. Lettuce
+15. Kiwi fruit
+16. Jicama
+17. Ice cream
+18. Hash browns
+19. Grape
+20. Flan
+21. Eclair
+22. Drum stick
+23. Carrot
+24. Banana
+25. Apple
+
+
+Call on an empty list:  
+List is Empty
+
+Finished

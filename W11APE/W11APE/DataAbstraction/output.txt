@@ -1,0 +1,85 @@
+Original List
+Symbol: MSFT
+Shares: 48
+Price: 28.3
+Dividend: 0.0
+
+Symbol: GOOG
+Shares: 97
+Price: 624.18
+Dividend: 0.97
+
+Symbol: AAPL
+Shares: 59
+Price: 348.48
+Dividend: 0.0
+
+Symbol: HI
+Shares: 33
+Price: 22.37
+Dividend: 0.33
+
+Symbol: COST
+Shares: 89
+Price: 72.51
+Dividend: 0.0
+
+Symbol: MSFT
+Shares: 33
+Price: 27.45
+Dividend: 0.33
+
+Symbol: MCD
+Shares: 33
+Price: 74.06
+Dividend: 0.0
+
+Symbol: BA
+Shares: 78
+Price: 70.07
+Dividend: 0.78
+
+
+
+Sorted List
+Symbol: HI
+Shares: 33
+Price: 22.37
+Dividend: 0.33
+
+Symbol: MCD
+Shares: 33
+Price: 74.06
+Dividend: 0.0
+
+Symbol: MSFT
+Shares: 33
+Price: 27.45
+Dividend: 0.33
+
+Symbol: MSFT
+Shares: 48
+Price: 28.3
+Dividend: 0.0
+
+Symbol: AAPL
+Shares: 59
+Price: 348.48
+Dividend: 0.0
+
+Symbol: BA
+Shares: 78
+Price: 70.07
+Dividend: 0.78
+
+Symbol: COST
+Shares: 89
+Price: 72.51
+Dividend: 0.0
+
+Symbol: GOOG
+Shares: 97
+Price: 624.18
+Dividend: 0.97
+
+Finished

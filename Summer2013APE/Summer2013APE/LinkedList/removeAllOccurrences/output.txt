@@ -1,0 +1,45 @@
+Starting with an empty list:
+List size is 0
+
+Remove successful? false
+List looks like this:
+List size is 0
+
+List looks like this:
+List size is 6
+1
+2
+3
+2
+1
+1
+
+Remove successful? false
+List looks like this:
+List size is 6
+1
+2
+3
+2
+1
+1
+
+Remove successful? true
+List looks like this:
+List size is 5
+1
+2
+2
+1
+1
+
+Remove successful? true
+List looks like this:
+List size is 2
+2
+2
+
+Remove successful? true
+List looks like this:
+List size is 0
+
